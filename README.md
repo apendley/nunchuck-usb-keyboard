@@ -1,2 +1,2 @@
 # nunchuck-usb-keyboard
-CircuitPython 9 source code for a dongle to translate Wii Nunchuck input into keyboard key events
+CircuitPython source code (9.2.0) for a dongle to translate Wii Nunchuck input into keyboard key events.
